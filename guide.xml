@@ -1,0 +1,1453 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/discovery.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health [Brazil]">
+    <display-name lang="pt">Discovery H&amp;H</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health HD">
+    <display-name lang="pt">Discovery Home &amp; Health HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20180307014800 -0400" stop="20180307040500 -0400" channel="Cinemax HD">
+    <title lang="pt">O Campeão de Hitler</title>
+    <desc lang="pt">Conheça a história real da luta entre o boxeador alemão Max Schmeling e o norte-americano Joe Louis durante a Segunda Guerra Mundial, considerado um dos maiores confrontos de boxe de todos os tempos(n)</desc>
+    <credits>
+      <director>Uwe Boll</director>
+      <actor>Henry Maske</actor>
+      <actor>Susanne Wuest</actor>
+      <actor>Heino Ferch</actor>
+      <actor>Vladimir Weigl</actor>
+      <actor>Detlef Bothe</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307040500 -0400" stop="20180307055400 -0400" channel="Cinemax HD">
+    <title lang="pt">O Assassino do Presidente</title>
+    <desc lang="pt">Homem perde a memória ao ser baleado. Ao tentar redescobrir sua identidade, ele acredita ser parte de um bando que planeja matar o presidente(n)</desc>
+    <credits>
+      <director>Michael Haussman</director>
+      <actor>Val Kilmer</actor>
+      <actor>Neve Campbell</actor>
+      <actor>Sam Shepard</actor>
+      <actor>Nobel Willingham</actor>
+      <actor>Amy Smart</actor>
+      <actor>Gil Bellows</actor>
+      <actor>Giancarlo Esposito</actor>
+      <actor>Charles Ortiz</actor>
+      <actor>Leo Fitzpatrick</actor>
+      <actor>Trajan Cuevas</actor>
+      <actor>Jesus Mayorga</actor>
+      <actor>Cole S. McKay</actor>
+      <actor>Guadalupe A. Garcia</actor>
+      <actor>Faye Dunaway</actor>
+      <actor>Ellen Blake</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307055400 -0400" stop="20180307083000 -0400" channel="Cinemax HD">
+    <title lang="pt">Consumido Pelo Fogo</title>
+    <desc lang="pt">A Terra está sofrendo com as mudanças climáticas e um grupo decidiu atuar pelo meio ambiente. No meio de uma conspiração, dois amigos ligados à indústria petrolífera terão que se enfrentar para defender seus interesses(n)</desc>
+    <credits>
+      <director>Omar Madha</director>
+      <actor>Bradley Whitford</actor>
+      <actor>Neve Campbell</actor>
+      <actor>Rupert Penry Jones</actor>
+      <actor>Marc Warren</actor>
+      <actor>Claire Skinner</actor>
+      <actor>Brenda Bazinet</actor>
+      <actor>Sandrine Holt</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307083000 -0400" stop="20180307100600 -0400" channel="Cinemax HD">
+    <title lang="pt">Ritmo Urbano</title>
+    <desc lang="pt">Mais de vinte países estão representados no grande concurso mundial de hip hop em Detroit. Três equipes levarão o ritmo e a pressão ao limite, para demonstrar que são os melhores(n)</desc>
+    <credits>
+      <director>Robert Adetuyi</director>
+      <actor>Tyrone Brown</actor>
+      <actor>Mishael Morgan</actor>
+      <actor>Nikki Grant</actor>
+      <actor>Ray Johnson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307100600 -0400" stop="20180307122200 -0400" channel="Cinemax HD">
+    <title lang="pt">Dezesseis Luas</title>
+    <desc lang="pt">Baseada no best-seller "Dezesseis Luas". Ethan transforma seus sonhos em realidade quando Lena chega à cidade. Não só encontra o amor, como protagoniza uma fantástica disputa entre o bem e o mal(n)</desc>
+    <credits>
+      <director>Richard LaGravenese</director>
+      <actor>Alice Englert</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Alden Ehrenreich</actor>
+      <actor>Viola Davis</actor>
+      <actor>Emmy Rossum</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307122200 -0400" stop="20180307142500 -0400" channel="Cinemax HD">
+    <title lang="pt">Quem Quer Ser um Milionário?</title>
+    <desc lang="pt">Jamal se inscreve no popular programa de TV "Quem Quer Ser um Milionário?". Inicialmente desacreditado, ele encontra em fatos de sua vida as respostas das perguntas feitas(n)</desc>
+    <credits>
+      <director>Danny Boyle</director>
+      <director>Loveleen Tandan</director>
+      <actor>Freida Pinto</actor>
+      <actor>Madhur Mittal</actor>
+      <actor>Dev Patel</actor>
+      <actor>Saurabh Shukla</actor>
+      <actor>Rajendranath Zutshi</actor>
+      <actor>Jeneva Talwar</actor>
+      <actor>Azharuddin Mohammed Ismail</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307142500 -0400" stop="20180307163000 -0400" channel="Cinemax HD">
+    <title lang="pt">Sem Retorno</title>
+    <desc lang="pt">Um milionário com uma doença terminal é submetido a uma operação para transferir sua consciência ao corpo de um homem jovem e sadio(n)</desc>
+    <credits>
+      <director>Tarsem Singh</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Victor Garber</actor>
+      <actor>Derek Luke</actor>
+      <actor>Melora Hardin</actor>
+      <actor>Michelle Dockery</actor>
+      <actor>Brendan McCarthy</actor>
+      <actor>Natalie Martinez</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307163000 -0400" stop="20180307180900 -0400" channel="Cinemax HD">
+    <title lang="pt">O Contrato</title>
+    <desc lang="pt">Ray Keene é um viúvo que está tentando se redimir dos erros do passado com o seu filho adolescente. A vida dos dois muda quando Ray precisa entregar à justiça um criminoso, só que a tarefa se transforma em uma perigosa missão(n)</desc>
+    <credits>
+      <director>Bruce Beresford</director>
+      <actor>John Cusack</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Jamie Anderson</actor>
+      <actor>Alice Krige</actor>
+      <actor>Megan Dodds</actor>
+      <actor>Corey Johnson</actor>
+      <actor>Jonathan Hyde</actor>
+      <actor>Bill Smitrovich</actor>
+      <actor>Anthony Warren</actor>
+      <actor>Ned Bellamy</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307180900 -0400" stop="20180307200300 -0400" channel="Cinemax HD">
+    <title lang="pt">Último Samurai</title>
+    <desc lang="pt">Hirokin é um samurai que vive em um planeta devastado dominado pelo ditador Griffin. Após ter sua mulher e filho mortos pelo exército de Griffin, Hirokin deve escolher entre vingar sua família e libertar seu povo(n)</desc>
+    <credits>
+      <director>Alejo Mo-Sun</director>
+      <actor>Wes Bentley</actor>
+      <actor>Jessica Szohr</actor>
+      <actor>Angus Macfadyen</actor>
+      <actor>Laura Ramsey</actor>
+      <actor>Julian Sands</actor>
+      <actor>Mercedes Manning</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307200300 -0400" stop="20180307220000 -0400" channel="Cinemax HD">
+    <title lang="pt">Motoqueiro Fantasma</title>
+    <desc lang="pt">Um homem faz um pacto com o diabo: em troca da proteção das duas pessoas que ele mais ama ele se torna um justiceiro, que obedece às suas ordens(n)</desc>
+    <credits>
+      <director>Mark Steven Johnson</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Matt Long</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Raquel Alessi</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Hugh Sexton</actor>
+      <actor>Kenneth Ransom</actor>
+      <actor>Lawrence Cameron Steele</actor>
+      <actor>Peter Fonda</actor>
+      <actor>Jessica Napier</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307220000 -0400" stop="20180307233700 -0400" channel="Cinemax HD">
+    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+    <desc lang="pt">Depois de um tempo recluso na Europa, Johnny Blaze precisa impedir que o próprio Demônio encarnado sequestre um garoto de 10 anos que pode ser a única esperança da humanidade contra as trevas(n)</desc>
+    <credits>
+      <director>Mark Neveldine</director>
+      <director>Brian Taylor</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Violante Placido</actor>
+      <actor>Ciarán Hinds</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Idris Elba</actor>
+      <actor>Fergus Riordan</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307233700 -0400" stop="20180308011400 -0400" channel="Cinemax HD">
+    <title lang="pt">Finalmente 18</title>
+    <desc lang="pt">Às vésperas de uma importante prova para a faculdade de medicina, Jeff Chang completa 21 anos e chega finalmente à maioridade. Uma simples ida ao bar para um drinque se torna uma noite de loucuras(n)</desc>
+    <credits>
+      <director>Jon Lucas</director>
+      <director>Scott Moore</director>
+      <actor>Skylar Astin</actor>
+      <actor>Miles Teller</actor>
+      <actor>Justin Chon</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307153000 -0300" stop="20180307160000 -0300" channel="Combate">
+    <title lang="pt">Inside Glory 50</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180307160000 -0300" stop="20180307180000 -0300" channel="Combate">
+    <title lang="pt">Arena Combate Strike - WGP 44: Bruno Gazani x Marcelo Dionísio</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180307180000 -0300" stop="20180307190000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 19: Team Edgar x Team Penn</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180307190000 -0300" stop="20180307200000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 19: Team Edgar x Team Penn</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180307200000 -0300" stop="20180307220000 -0300" channel="Combate">
+    <title lang="pt">Best Of Tuf: 25th Season Anniversary</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180307220000 -0300" stop="20180308000000 -0300" channel="Combate">
+    <title lang="pt">Arena Combate Strike - Glory 51: Rotterdam Super Fight Series</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180307000000 -0400" stop="20180307003000 -0400" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Futuros Campeões: Poliana Botelho</sub-title>
+    <desc lang="pt">Com uma carreira meteórica, Poliana Botelho é um fenômeno, e já foi contratada pelo UFC. Mas um golpe do destino a atingiu e adiou duas vezes a sua estreia no Ultimate, que precisou de garra e determinação(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307003000 -0400" stop="20180307013000 -0400" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Espírito da Luta: Paixão e Luta</sub-title>
+    <desc lang="pt">O Espírito da Luta é uma série documental que revela a cultura por trás das artes marciais. No episódio Paixão e Luta, vemos como diferentes etnias compartilham suas motivações, histórias e sua paixão pelo esporte(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307013000 -0400" stop="20180307020000 -0400" channel="Combate HD">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">Você vê o melhor do UFC 222 - Cyborg x Kunitskaya ao vivo no Sensei Combate(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307020000 -0400" stop="20180307030000 -0400" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Unleashed</sub-title>
+    <desc lang="pt">Reveja algumas das lutas mais emocionantes de atletas do UFC que tiveram performances de destaque em 2017. Com Mike Perry, Brian Ortega, Cynthia Calvillo, Paul Felder e James Vick(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307030000 -0400" stop="20180307040000 -0400" channel="Combate HD">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307040000 -0400" stop="20180307060000 -0400" channel="Combate HD">
+    <title lang="pt">Combate Brasil</title>
+    <sub-title lang="pt">Circuito Team Nogueira Viamão 2</sub-title>
+    <desc lang="pt">A segunda edição do Circuito Team Nogueira Viamão, realizada no dia 25 de novembro de 2017, contou com os confrontos entre Janailson Kevin e Fernando Tourinho, Dimitri Zebroski e João Aquino, entre outros(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307060000 -0400" stop="20180307070000 -0400" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Unleashed</sub-title>
+    <desc lang="pt">Reveja algumas das lutas mais emocionantes de atletas do UFC que tiveram performances de destaque em 2017. Com Mike Perry, Brian Ortega, Cynthia Calvillo, Paul Felder e James Vick(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307070000 -0400" stop="20180307080000 -0400" channel="Combate HD">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307080000 -0400" stop="20180307094000 -0400" channel="Combate HD">
+    <title lang="pt">Arena Combate Strike</title>
+    <sub-title lang="pt">WGP 44: Bruno Gazani x Marcelo Dionísio</sub-title>
+    <desc lang="pt">A edição 44 já chega, literalmente, ‘chutando a porta’ no Ginásio Adib Moyses Dib, em São Bernardo do Campo. Entre as principais atrações, a disputa de cinturão vago e estreia do ex-atleta do UFC Viscardi Andrade(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307094000 -0400" stop="20180307103000 -0400" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Unleashed</sub-title>
+    <desc lang="pt">Reveja algumas das lutas mais emocionantes de atletas do UFC que tiveram performances de destaque em 2017. Com Mike Perry, Brian Ortega, Cynthia Calvillo, Paul Felder e James Vick(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307103000 -0400" stop="20180307110000 -0400" channel="Combate HD">
+    <title lang="pt">Inside Glory 50</title>
+    <desc lang="pt">Veja o que rolou de melhor do Glory em 2017 nesta retrospectiva(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307110000 -0400" stop="20180307120000 -0400" channel="Combate HD">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307120000 -0400" stop="20180307130000 -0400" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 19: Team Edgar x Team Penn</title>
+    <desc lang="pt">Edgar recupera o controle das lutas e convoca a luta já prevista entre Mike King, da Equipe Penn, contra Eddie Gordon, da sua equipe(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307130000 -0400" stop="20180307135000 -0400" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 19: Team Edgar x Team Penn</title>
+    <desc lang="pt">Mike King fica bravo com os outros lutadores da casa pelo fato de deixarem sempre a louça suja. King é questionado por Coleman e Penn pelo fato dele querer fazer a luta em pé, sabendo que ele é oriundo do wrestling(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307135000 -0400" stop="20180307144000 -0400" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 26: A New World Champion</title>
+    <desc lang="pt">Conforme o treinamento continua em preparação para as semifinais, os treinadores se envolvem em uma guerra de pegadinhas. Então, dois pesos mosca entram no octógono para o primeiro confronto semifinal(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S26 E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307144000 -0400" stop="20180307153000 -0400" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 26: A New World Champion</title>
+    <desc lang="pt">No último episódio da temporada antes da final ao vivo, uma lutadora procura ajuda no UFC Performance Institute para fazer seu corte de peso. Então, a segunda semifinal determina qual das pesos-mosca vai para a final(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307153000 -0400" stop="20180307160000 -0400" channel="Combate HD">
+    <title lang="pt">Inside Glory 50</title>
+    <desc lang="pt">Veja o que rolou de melhor do Glory em 2017 nesta retrospectiva(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307160000 -0400" stop="20180307180000 -0400" channel="Combate HD">
+    <title lang="pt">Arena Combate Strike</title>
+    <sub-title lang="pt">WGP 44: Bruno Gazani x Marcelo Dionísio</sub-title>
+    <desc lang="pt">A edição 44 já chega, literalmente, ‘chutando a porta’ no Ginásio Adib Moyses Dib, em São Bernardo do Campo. Entre as principais atrações, a disputa de cinturão vago e estreia do ex-atleta do UFC Viscardi Andrade(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307180000 -0400" stop="20180307190000 -0400" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 19: Team Edgar x Team Penn</title>
+    <desc lang="pt">Mike King fica bravo com os outros lutadores da casa pelo fato de deixarem sempre a louça suja. King é questionado por Coleman e Penn pelo fato dele querer fazer a luta em pé, sabendo que ele é oriundo do wrestling(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307190000 -0400" stop="20180307200000 -0400" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 19: Team Edgar x Team Penn</title>
+    <desc lang="pt">Van Buren declara explicitamente que não gosta de Chris. Dana diz que essa edição está marcada por lutadores que "não estão a fim"(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307200000 -0400" stop="20180307220000 -0400" channel="Combate HD">
+    <title lang="pt">Best Of Tuf: 25th Season Anniversary</title>
+    <desc lang="pt">Neste especial de 25 anos do The Ultimate Fighter, relembramos os melhores momentos das 24 primeiras temporadas do reality, desde sua origem até os mais memoráveis lutadores e treinadores que já passaram pelo show(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307220000 -0400" stop="20180308000000 -0400" channel="Combate HD">
+    <title lang="pt">Arena Combate Strike</title>
+    <sub-title lang="pt">Glory 51: Rotterdam Super Fight Series</sub-title>
+    <desc lang="pt">No Glory 51, temos o retorno de Badr Hari para a organização, duelando com Hesdy Gerges. Além disso, Tomas Mozny encara Daniel Skvor, Cédric Doumbé enfrenta Alim Nabiyev, e muito mais, com exclusividade no Combate(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307154000 -0300" stop="20180307160500 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307160500 -0300" stop="20180307163500 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307163500 -0300" stop="20180307170000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307170000 -0300" stop="20180307180000 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307180000 -0300" stop="20180307190000 -0300" channel="Comedy Central">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180307190000 -0300" stop="20180307193000 -0300" channel="Comedy Central">
+    <title lang="pt">Pipocando: O Dobro de Manteiga</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307193000 -0300" stop="20180307200000 -0300" channel="Comedy Central">
+    <title lang="pt">Pipocando: O Dobro de Manteiga</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307200000 -0300" stop="20180307203000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307203000 -0300" stop="20180307210000 -0300" channel="Comedy Central">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307210000 -0300" stop="20180307220000 -0300" channel="Comedy Central">
+    <title lang="pt">A Culpa é do Cabral</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307220000 -0300" stop="20180307230000 -0300" channel="Comedy Central">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180307230000 -0300" stop="20180307233000 -0300" channel="Comedy Central">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307233000 -0300" stop="20180308000000 -0300" channel="Comedy Central">
+    <title lang="pt">Comedy Central Stand Up</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307153600 -0300" stop="20180307162400 -0300" channel="Discovery Channel">
+    <title lang="pt">À Prova de Tudo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307162400 -0300" stop="20180307171200 -0300" channel="Discovery Channel">
+    <title lang="pt">Ed Stafford: Rumo ao Desconhecido</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180307171200 -0300" stop="20180307180000 -0300" channel="Discovery Channel">
+    <title lang="pt">Febre do Ouro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307180000 -0300" stop="20180307183000 -0300" channel="Discovery Channel">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307183000 -0300" stop="20180307190000 -0300" channel="Discovery Channel">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307190000 -0300" stop="20180307195000 -0300" channel="Discovery Channel">
+    <title lang="pt">Isolados no Alasca</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307195000 -0300" stop="20180307213000 -0300" channel="Discovery Channel">
+    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180307213000 -0300" stop="20180307222000 -0300" channel="Discovery Channel">
+    <title lang="pt">Cirurgiões Ao Resgate</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307222000 -0300" stop="20180307231000 -0300" channel="Discovery Channel">
+    <title lang="pt">Autópsia de Famosos</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20180307231000 -0300" stop="20180307235100 -0300" channel="Discovery Channel">
+    <title lang="pt">Autópsia de Famosos</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20180307235100 -0300" stop="20180308003400 -0300" channel="Discovery Channel">
+    <title lang="pt">Parasitas Assassinos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307003900 -0300" stop="20180307013200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Isolados no Alasca - S3E2</title>
+    <desc lang="pt">Enquanto as famílias se dedicam às rotinas de outono para se preparar para o inverno, vários visitantes chegam às cabanas. Heimo e Edna recebem a filha caçula, Krinn, e o novo neto, Colby(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180307013200 -0300" stop="20180307023200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota E13</title>
+    <desc lang="pt">Centenas de famílias que moram em áreas remotas e sem infraestrutura, acabam sucumbindo ao primeiro inverno ou seca. Em um último esforço para salvar suas casas, eleas recorrem a especialistas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307023200 -0300" stop="20180307032200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados - Especial - S3</title>
+    <desc lang="pt">A cada semana um homem e uma mulher são levados a um dos ambientes de clima mais extremo do mundo. Os dois ficarão literalmente expostos, já que serão deixados sem comida, sem água... e sem roupas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180307032200 -0300" stop="20180307041200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Largados e Pelados: A Tribo E2</title>
+    <desc lang="pt">Após uma semana nas terras áridas da Colômbia, um especialista em sobrevivência já desistiu, outro está prestes a sair e a fome, a sede e a falta de confiança ameaçam derrubar outros(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180307041200 -0300" stop="20180307050500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Febre do Ouro - S8E9</title>
+    <desc lang="pt">Os chefes analisam seus erros e enfrentam escolhas difíceis. Rick se indispõe com Parker Schnabel. Todd Hoffman investe numa mina já explorada. Tony Beets se arrisca numa viagem pelo Rio Yukon para desmontar a segunda draga(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180307050500 -0300" stop="20180307055300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Investigação Paranormal - S2E9</title>
+    <desc lang="pt">Nick e Katrina investigam a Mansão Whitehill, em Nova Jersey. Quando registram a imagem de uma criança no sótão, Nick e Katrina se perguntam se os outros espíritos também são inocentes(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307055300 -0300" stop="20180307064800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Discovery na Escola E84</title>
+    <desc lang="pt">Examine o nascimento e crescimento da civilização egípcia ao longo das margens do Rio Nilo. Arqueólogos acreditam que uma múmia desfigurada descoberta recentemente pode ser de uma mulher poderosa do antigo Egito(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307064800 -0300" stop="20180307073600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Dupla do Barulho - Lances Desastrosos E23</title>
+    <desc lang="pt">Richard Rawlings e seus amigos da Gas Monkey Garage, Farmtruck e AZN, assistem a vídeos aéreos alucinantes. Um parapente colide com um abutre em pleno ar; um helicóptero de resgate sofre uma pane(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307073600 -0300" stop="20180307082400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Segredos da NASA - S3E1</title>
+    <desc lang="pt">Gravações perdidas revelam que os astronautas da Apollo ouviram transmissões inexplicadas na Lua. Um astrônomo amador identifica uma perturbação estranha na atmosfera de Marte(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307082400 -0300" stop="20180307091200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">O Submundo do Tráfico E8</title>
+    <desc lang="pt">Armas contrabandeadas dos EUA provocam crimes violentos em El Salvador e na Guatemala. Em uma viagem pelos territórios das gangues na América Central, Nelufar mostra as vítimas do tráfico de armas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307091200 -0300" stop="20180307100000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">A Grande Família do Alasca - S3E16</title>
+    <desc lang="pt">Na expectativa de reencontrar um de seus membros, a família finalmente retorna a Browntown. Mas quando a primavera traz vida à floresta, os Browns questionam os valores que sustentam a alcateia(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307100000 -0300" stop="20180307104800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo - S6E6</title>
+    <desc lang="pt">Mais de cem pessoas se afogam todos os anos na Nova Zelândia, e Bear precisa atravessar uma forte correnteza sobre um tronco de árvore para voltar à civilização(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307104800 -0300" stop="20180307113600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Dupla do Barulho E27</title>
+    <desc lang="pt">A equipe tenta terminar a Ferrari F40, e o custo aumenta quando um para-brisa de 8 mil dólares é quebrado. A sorte de Richard muda quando o Porsche 67 que ele comprou acaba superando as expectativas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307113600 -0300" stop="20180307122400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Febre do Ouro - S7E6</title>
+    <desc lang="pt">Todd Hoffman transfere a operação inteira e começa a explorar uma nova mina. Parker Schnabel sofre com uma inundação e a antiga draga de Tony Beets extrai uma quantidade recorde de ouro(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180307122400 -0300" stop="20180307131200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla - S2E7</title>
+    <desc lang="pt">Dave e Cody são dois náufragos à deriva e demonstram como sobreviver numa ilha selvagem e deserta no Pacífico. E desta vez, Dave anda descalço(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307131200 -0300" stop="20180307140000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Pesca Mortal - S11E10</title>
+    <desc lang="pt">Três barcos chegam às áreas do caranguejo-nas-neves. Johnathan Hillstrand lida com um marinheiro problemático, enquanto uma explosão no Cape Caution coloca a dedicação de Zack Larson em dúvida(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180307140000 -0300" stop="20180307144800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Dupla do Barulho - S2E24</title>
+    <desc lang="pt">Richard Rawlings e seu parceiro Aaron Kaufmann viajam a lugares remotos do mundo à procura de carros americanos (os famosos "muscle cars") para restaurá-los e leiloá-los pelo preço mais alto(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307144800 -0300" stop="20180307153600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">A Grande Família do Alasca - S3E7</title>
+    <desc lang="pt">Matt, Bam, Bear e Gabe sentem a pressão ao fazer entregas em condições extremas. Enquanto isso, em Browntown, algumas circunstâncias forçam uma decisão que mudará a vida do grupo para sempre(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307153600 -0300" stop="20180307162400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo - S6E6</title>
+    <desc lang="pt">Mais de cem pessoas se afogam todos os anos na Nova Zelândia, e Bear precisa atravessar uma forte correnteza sobre um tronco de árvore para voltar à civilização(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307162400 -0300" stop="20180307171200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ed Stafford: Rumo ao Desconhecido E3</title>
+    <desc lang="pt">Ed vai à Sibéria para investigar a origem de um misterioso anel de pedras quebradas, com aparência de cratera e que impressiona cientistas. Ele conta com a ajuda de moradores locais para vencer o frio(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20180307171200 -0300" stop="20180307180000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Febre do Ouro - S7E6</title>
+    <desc lang="pt">Todd Hoffman transfere a operação inteira e começa a explorar uma nova mina. Parker Schnabel sofre com uma inundação e a antiga draga de Tony Beets extrai uma quantidade recorde de ouro(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180307180000 -0300" stop="20180307183000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Aeroporto: Área Restrita E7</title>
+    <desc lang="pt">A Polícia Federal faz operações com cães farejadores de drogas nas bagagens de mão dos passageiros e malas despachadas. Seguranças encaminham para a PF uma passageira portando 300 cápsulas de cocaína escondidas no corpo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307183000 -0300" stop="20180307190000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Aeroporto: Área Restrita E8</title>
+    <desc lang="pt">Policiais preparam uma operação para prender uma quadrilha de estelionatários prestes a desembarcar em Guarulhos. A equipe do aeroporto monta um esquema de segurança especial para receber a delegação norte-americana(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307190000 -0300" stop="20180307195000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Isolados no Alasca E8</title>
+    <desc lang="pt">O sol finalmente retorna à reserva no Alasca. Heimo se vê em dificuldades a 50 graus negativos. Os Seldens reformam a cabana. Bob tenta salvar a pior temporada em 40 anos e questiona o seu futuro(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307195000 -0300" stop="20180307213000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Quilos Mortais: Como Eles Estão Agora? - S3E5</title>
+    <desc lang="pt">Joe tem 30 anos e está preso em um corpo de 362 quilos. Ele perdeu o emprego e está confinado a sua casa. Joe será capaz de encontrar forças para encarar seu passado e salvar sua vida?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180307213000 -0300" stop="20180307222000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Cirurgiões Ao Resgate - S5E2</title>
+    <desc lang="pt">Os cirurgiões tentam reparar as calamidades estéticas, incluindo a modelo Sarai, cujas injeções de preenchimento a deixaram com bolsas ao redor dos olhos e Paul, que tem excesso de pele após um bypass gástrico(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180307222000 -0300" stop="20180307231000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Autópsia de Famosos - S2E2</title>
+    <desc lang="pt">Corey Haim foi um ídolo teen em Hollywood nos anos 80. O patologista forense, Dr. Michael Hunter, analisa sua autópsia para acabar com boatos e revelar a verdadeira causa de sua morte precoce(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20180307231000 -0300" stop="20180307235100 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Autópsia de Famosos - S2E9</title>
+    <desc lang="pt">As apresentações honestas de Richard Pryor revolucionaram a comédia americana. E sua atitude irrefreável no palco continuava longe das câmeras, com um apetite monstruoso por álcool, drogas e sexo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Investigação</category>
+  </programme>
+  <programme start="20180307235100 -0300" stop="20180308003400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Parasitas Assassinos - S7E3</title>
+    <desc lang="pt">As férias de uma família viram um pesadelo quando seu filho pequeno engole um parasita. Uma mulher sofre uma infecção misteriosa. Parasitas mortais invadem o cérebro de uma criança de seis anos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180307152700 -0300" stop="20180307155200 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Novo ou Usado?</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307155200 -0300" stop="20180307161800 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Novo ou Usado?</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307161800 -0300" stop="20180307164300 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">O Vestido Ideal: Canadá</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307164300 -0300" stop="20180307170900 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">O Vestido Ideal: Canadá</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307170900 -0300" stop="20180307180000 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Pega Na Mentira</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20180307180000 -0300" stop="20180307182700 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">O Vestido Ideal</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180307182700 -0300" stop="20180307185500 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">O Vestido Ideal</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180307185500 -0300" stop="20180307194600 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307194600 -0300" stop="20180307203000 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180307203000 -0300" stop="20180307205800 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">5 Looks: Trabalho</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307205800 -0300" stop="20180307212600 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">5 Looks: Trabalho</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307212600 -0300" stop="20180307215300 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Troca de Estilos</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307215300 -0300" stop="20180307222000 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Troca de Estilos</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307222000 -0300" stop="20180307231500 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Esquadrão da Moda</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180307231500 -0300" stop="20180307234200 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">Noivas Plus Size</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307234200 -0300" stop="20180308001000 -0300" channel="Discovery Home &amp; Health [Brazil]">
+    <title lang="pt">O Vestido Ideal: Madrinhas</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180307003400 -0400" stop="20180307010000 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Reforma Surpresa</title>
+    <desc lang="pt">Chef Murray trabalha até tarde, e quando seu cunhado Tristram precisou de um lugar para morar, Murray e Tamara o receberam. Tristram quer agradecer a generosidade de Murray reformando o quarto do casal(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307010000 -0400" stop="20180307012600 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Cake Boss</title>
+    <desc lang="pt">Buddy e sua equipe devem fazer um bolo inspirado na loja de brinquedos FAO Schwarz para a festa de aniversário de gêmeos, e também um bolo com tema praiano para um clube local(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307012600 -0400" stop="20180307015100 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Cake Boss</title>
+    <desc lang="pt">A equipe de Carlo enfrenta um grande desafio: fazer um bolo de dragão chinês para uma equipe de corrida de barcos. A semana também está agitada na loja: eles precisam preparar centenas de cannoli para um evento especial(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307015100 -0400" stop="20180307021600 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Cake Boss</title>
+    <desc lang="pt">A equipe cria um bolo que imita a bela arte em vidro. Lisa recebe uma encomenda especial para o cenário do patriarca de uma família(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S9 E19</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307021600 -0400" stop="20180307024200 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Cake Boss</title>
+    <desc lang="pt">Pai e filha encomendam a Mauro um bolo  para um baile especial. Buddy prepara um bolo para a despedida de solteira de uma noiva(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S9 E20</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307024200 -0400" stop="20180307033300 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Bake Off Reino Unido: Mão Na Massa</title>
+    <desc lang="pt">Até agora, os cinco finalistas já foram testados no preparo de bolos, pães, tortas, pastéis e pudins. Neste episódio, eles devem usar farinhas incomuns para preparar sobremesas muito peculiares(n)</desc>
+    <credits>
+      <director>Scott Tankard</director>
+      <actor>Mel Giedroyc</actor>
+      <actor>Sue Perkins</actor>
+      <actor>Mary Berry</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307033300 -0400" stop="20180307042400 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">A Guerra dos Cupcakes</title>
+    <desc lang="pt">O concurso Miss America retorna a Atlantic City e quatro talentosos confeiteiros disputam uma chance de servir seus cupcakes no evento. O desafio é conquistar a atual Miss America, Mallory Hagan(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307042400 -0400" stop="20180307044900 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">A Guerra Dos Donuts</title>
+    <desc lang="pt">Três confeiteiros preparam receitas usando maçãs do amor como ingrediente misterioso. Os dois vencedores da prova disputam um prêmio de 10 mil dólares numa prova inspirada em naufrágios(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S2 E24</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307044900 -0400" stop="20180307051500 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">A Guerra Das Sobremesas</title>
+    <desc lang="pt">Três confeiteiros usam beterraba como ingrediente misterioso na rodada eliminatória. Na disputa pelos 10 mil dólares, os dois vencedores devem preparar bolos inspirados na primavera(n)</desc>
+    <credits>
+      <director>Rae Upton</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307051500 -0400" stop="20180307060600 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Casas de Brinquedo</title>
+    <desc lang="pt">A família de Ryan Zimmerman encomenda a maior casa de brinquedo da história da charmeza: um castelo de princesa. Tyson e Audy precisam fabricar um dragão, uma pista de dança e um vestiário(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307060600 -0400" stop="20180307063100 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Médico por um Dia</title>
+    <desc lang="pt">Um homem fica com uma enguia viva presa em seu ânus e precisa de uma cirurgia de emergência. Na Índia, um grupo acredita que beber urina de vaca cura doenças(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307063100 -0400" stop="20180307065700 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal</title>
+    <desc lang="pt">Nem os manequins escapam quando a comediante Kathy Griffin conspira com Randy para surpreender sua ex-assistente. Tumi Oguntala, de The Biggest Loser, tem problemas com o vestido(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S13 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307065700 -0400" stop="20180307074800 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Esquadrão da Moda</title>
+    <desc lang="pt">Mandy e Molly são gêmeas que se vestem com o mesmo estilo moleque. Neste episódio, Stacy e Clinton se dividem para orientá-las separadamente e ajudar a criar um estilo individual. Quem vai ganhar?(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S10 E22</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307074800 -0400" stop="20180307081300 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Estilo Celebridades</title>
+    <desc lang="pt">Esta série acompanha a evolução da moda de celebridades ao longo dos anos(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S2 E65</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307081300 -0400" stop="20180307083900 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Estilo Celebridades</title>
+    <desc lang="pt">Esta série acompanha a evolução da moda de celebridades ao longo dos anos(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S2 E66</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307083900 -0400" stop="20180307090400 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Troca De Estilos: América Latina</title>
+    <desc lang="pt">Lorena e Soledad moram em Buenos Aires e são amigas desde pequenas. Seus estilos são muito diferentes: Lorena gosta de roupas leves e coloridas, enquanto Soledad tem um estilo mais excêntrico(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307090400 -0400" stop="20180307093000 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Troca De Estilos: América Latina</title>
+    <desc lang="pt">Natalia e Carolina são duas irmãs colombianas. Uma está sempre criticando o estilo da outra: Natalia se veste como uma idosa, enquanto Carolina usa roupas de moleca. Será que elas vão se entender?(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307093000 -0400" stop="20180307102100 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Vestida para Matar</title>
+    <sub-title lang="pt">América Latina</sub-title>
+    <desc lang="pt">Vamos conhecer Yanine, mexicana de 21 anos; Mecha, argentina de 51 anos; Victoria, mexicana de 46 anos; e Alexandra, colombiana de 37 anos. Os jurados vão escolher quem se veste melhor(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307102100 -0400" stop="20180307111200 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Esquadrão da Moda</title>
+    <desc lang="pt">O estilo matriarcal de Elizabeth se baseia em camisas floridas e jeans largos, o que acaba constrangendo sua família. Stacy e Clinton a ajudam a criar um estilo mais sofisticado(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S10 E13</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307111200 -0400" stop="20180307120300 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">A Rainha do Aplique</title>
+    <desc lang="pt">Como os negócios em Nova York finalmente avançam, Christina testa Victoria para definir seu futuro no salão. Uma cliente transgênera faz uma transformação radical em seu cabelo(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S28 E6</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307120300 -0400" stop="20180307125400 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+    <sub-title lang="pt">Compra e Venda</sub-title>
+    <desc lang="pt">Blanca, Teddy e seus filhos moram em uma casa pequena com poucos quartos e apenas um banheiro. Eles precisam encontrar uma casa maior que caiba em seu orçamento e atenda às suas necessidades(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307125400 -0400" stop="20180307131900 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal</title>
+    <desc lang="pt">Nem os manequins escapam quando a comediante Kathy Griffin conspira com Randy para surpreender sua ex-assistente. Tumi Oguntala, de The Biggest Loser, tem problemas com o vestido(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S13 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307131900 -0400" stop="20180307134500 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Cake Boss</title>
+    <desc lang="pt">Buddy recebe a encomenda de um dos bolos mais difíceis até agora: um pedido de uma réplica de uma privada que dá descarga de verdade!(n)</desc>
+    <credits>
+      <director>Tyler Young</director>
+      <actor>Buddy Valastro</actor>
+      <actor>Frankie Amato Jr</actor>
+      <actor>Anthony Bellifemine</actor>
+      <actor>Mauro Castano</actor>
+      <actor>Maddalena Castano</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307134500 -0400" stop="20180307143600 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Junior Masterchef EUA</title>
+    <desc lang="pt">Competição culinária para crianças talentosas entre 8 e 13 anos que adoram cozinhar. Baseada na série de sucesso de mesmo nome que agora inclui um grupo mais jovem de aspirantes a masterchefs(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307143600 -0400" stop="20180307150100 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal: Reino Unido</title>
+    <desc lang="pt">Depois de vencer um câncer de ovário, Gemma procura um vestido perfeito para seu casamento na Tailândia. Emma procura um vestido justo depois de perder 25 quilos(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S5 E37</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307150100 -0400" stop="20180307152700 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal: Reino Unido</title>
+    <desc lang="pt">Lisa sonha com um vestido de princesa com um grande laço. Kate procura um vestido com renda, um véu comprido em muito brilho. David e a equipe tentam encontrar os modelos desejados(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S5 E38</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307152700 -0400" stop="20180307155200 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Novo ou Usado?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307155200 -0400" stop="20180307161800 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Novo ou Usado?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307161800 -0400" stop="20180307164300 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal: Canadá</title>
+    <desc lang="pt">Esta série revela todas as emoções e surpresas das noivas antes de subir ao altar(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Jeff Cole</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307164300 -0400" stop="20180307170900 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal: Canadá</title>
+    <desc lang="pt">Lily convida a madrinha de casamento, a guru fashion Jeanne Beker, para ajudá-la a achar o vestido ideal(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Jeff Cole</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307170900 -0400" stop="20180307180000 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Pega Na Mentira</title>
+    <desc lang="pt">Enquanto se prepara para casar com sua namorada, Danielle entra em contato com o ex-namorado, Alex. Henry e Kris, Beth e Simon tentam definir em que ponto estão no relacionamento(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307180000 -0400" stop="20180307182700 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal</title>
+    <desc lang="pt">Jamie fica arrasada quando se apaixona por um vestido que não cabe no seu bolso. Natalie não consegue escolher um modelo sem a ajuda da mãe. Nadia teme que o vestido da recepção tenha a cor errada(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S13 E10</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307182700 -0400" stop="20180307185500 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal</title>
+    <desc lang="pt">Às vezes, Kleinfeld fecha o ateliê para clientes sem limitações de orçamento terem reuniões particulares com seus estilistas. Pnina Tornai faz reuniões individuais com três noivas(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S13 E11</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307185500 -0400" stop="20180307194600 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+    <sub-title lang="pt">Compra e Venda</sub-title>
+    <desc lang="pt">Chandra e Tom compraram sua casa numa execução hipotecária, e desde então, têm enfrentado um contratempo atrás do outro(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307194600 -0400" stop="20180307203000 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Cansada de dormir no sofá de sua melhor amiga, Nancy procura um apartamento no subúrbio com um toque feminino que reflita sua personalidade – e uma garagem para sua adorada motocicleta(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S4 E23</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307203000 -0400" stop="20180307205800 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">5 Looks: Trabalho</title>
+    <desc lang="pt">Camila é uma jovem empresária que pensa mais no conforto para pedalar em sua bicicleta que na imagem que quer passar(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307205800 -0400" stop="20180307212600 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">5 Looks: Trabalho</title>
+    <desc lang="pt">Carla acabou de ser promovida a diretora geral de uma rede de bares São Paulo. Como trabalha à noite, seus looks são bem extravagantes. Mas agora ela quer se vestir de forma mais apropriada para seu novo cargo(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S28 E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307212600 -0400" stop="20180307215300 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Troca de Estilos</title>
+    <desc lang="pt">Duas mulheres, amigas, mãe e filha, colegas de trabalho. Diferentes no visual e no comportamento, elas têm um desejo em comum: mudar o estilo uma da outra. Apresentado por Gaby Amarantos(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307215300 -0400" stop="20180307222000 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Troca de Estilos</title>
+    <desc lang="pt">Duas mulheres, amigas, mãe e filha, colegas de trabalho. Diferentes no visual e no comportamento, elas têm um desejo em comum: mudar o estilo uma da outra. Apresentado por Gaby Amarantos(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307222000 -0400" stop="20180307231500 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Esquadrão da Moda</title>
+    <desc lang="pt">Jennifer dedica todo o seu tempo a salvar os animais, mas acabou negligenciando sua aparência no processo. Stacy e Clinton a ajudam a reservar um tempo maior para investir em um novo guarda-roupa(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307231500 -0400" stop="20180307234200 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Noivas Plus Size</title>
+    <desc lang="pt">As irmãs Yukia e Yuneisia se especializaram em atender noivas curvilíneas e acima do peso. Neste episódio, elas vão ajudar Christen, Zoe e Gabby a se unirem aos vestidos de seus sonhos(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180307234200 -0400" stop="20180308001000 -0400" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal: Madrinhas</title>
+    <desc lang="pt">Uma noiva entra em uma discussão acalorada com sua madrinha egoísta, que quer roubar os holofotes(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
