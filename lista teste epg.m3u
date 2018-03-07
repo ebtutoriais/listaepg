@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="FILMES/SERIES",Cinemax HD
+http://painel.iptvmove.com:25461/live/refdfrd/gffhfhu/2256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="CANAIS ESPORTE",Combate
+http://painel.iptvmove.com:25461/live/refdfrd/gffhfhu/1337.m3u8
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="CANAIS ESPORTE",Combate HD
+http://painel.iptvmove.com:25461/live/refdfrd/gffhfhu/1413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="VARIEDADES",Comedy Central
+http://painel.iptvmove.com:25461/live/refdfrd/gffhfhu/1336.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="DOCUMENTARIOS",Discovery Channel
+http://painel.iptvmove.com:25461/live/refdfrd/gffhfhu/1334.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="DOCUMENTARIOS",Discovery Channel HD
+http://painel.iptvmove.com:25461/live/refdfrd/gffhfhu/1412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="DOCUMENTARIOS",Discovery H&H
+http://painel.iptvmove.com:25461/live/refdfrd/gffhfhu/1332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="DOCUMENTARIOS",Discovery Home & Health HD
+http://painel.iptvmove.com:25461/live/refdfrd/gffhfhu/1411.m3u8
